@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Global</title>
+  <title>NASA X SPACE APPS</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -39,7 +39,7 @@
           <ul class="side-nav">
             <li class="is-active"><span>Home</span></li>
             <li><span>Works</span></li>
-            <li><span>About</span></li>
+            <li><span>News</span></li>
             <li style="color: #b60109"><span style="color: #b60109">LIVE</span></li>
             <li><span>Contact US</span></li>
           </ul>
@@ -131,8 +131,8 @@
           <li class="l-section section">
             <div class="about">
               <div class="about--banner">
-                <h2>We<br>believe in<br>passionate<br>people</h2>
-                <a href="#0">Career
+                <h2>News<br>Events</b></h2>
+                <a href="https://www.nasa.gov/news/all-news/">News
                   <span>
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 118" style="enable-background:new 0 0 150 118;" xml:space="preserve">
                     <g transform="translate(0.000000,118.000000) scale(0.100000,-0.100000)">
@@ -141,17 +141,17 @@
                     </svg>
                   </span>
                 </a>
-                <img src="{{asset('img/about-visual.png')}}" alt="About Us">
+                <img src="{{asset('img/cernan_as17-140-21388_large_sq-4cb52683f42a49c47eb649dd98aaabbd0ff0be66-removebg-preview.png')}}" style="    bottom: -20px;" alt="About Us">
               </div>
               <div class="about--options">
-                <a href="#0">
-                  <h3>Winners</h3>
+                <a href="https://www.nasa.gov/organizations/general-law/">
+                  <h3>General Law</h3>
                 </a>
-                <a href="#0">
-                  <h3>Philosophy</h3>
+                <a href="https://www.nasa.gov/image-article/apollo-8-rollout/">
+                  <h3>Apollo 8 Rollout</h3>
                 </a>
-                <a href="#0">
-                  <h3>History</h3>
+                <a href="https://www.nasa.gov/image-article/pivot-of-ad-1-wings-2/">
+                  <h3>Pivot of AD-1 Wings</h3>
                 </a>
               </div>
             </div>
@@ -179,7 +179,7 @@
               <form class="work-request">
                 <div class="work-request--options">
                   <span class="options-a">
-                    <input id="opt-1" type="checkbox" value="app design">
+                    <input id="opt-1" type="checkbox" value="Services">
                     <label for="opt-1">
                       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                       viewBox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
@@ -187,9 +187,9 @@
                         <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"/>
                       </g>
                       </svg>
-                      App Design
+                      Services
                     </label>
-                    <input id="opt-2" type="checkbox" value="graphic design">
+                    <input id="opt-2" type="checkbox" value="Technical Support">
                     <label for="opt-2">
                       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                       viewBox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
@@ -197,7 +197,7 @@
                         <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"/>
                       </g>
                       </svg>
-                      Graphic Design
+                      Press & Media Contact
                     </label>
                     <input id="opt-3" type="checkbox" value="motion design">
                     <label for="opt-3">
@@ -207,7 +207,7 @@
                         <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"/>
                       </g>
                       </svg>
-                      Motion Design
+                      Technical Support
                     </label>
                   </span>
                   <span class="options-b">
@@ -219,7 +219,7 @@
                         <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"/>
                       </g>
                       </svg>
-                      UX Design
+                      Get More Information
                     </label>
                     <input id="opt-5" type="checkbox" value="webdesign">
                     <label for="opt-5">
@@ -229,7 +229,7 @@
                         <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"/>
                       </g>
                       </svg>
-                      Webdesign
+                      Business Inquiries
                     </label>
                     <input id="opt-6" type="checkbox" value="marketing">
                     <label for="opt-6">
@@ -239,7 +239,7 @@
                         <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"/>
                       </g>
                       </svg>
-                      Marketing
+                      Request a Quote
                     </label>
                   </span>
                 </div>
@@ -264,7 +264,7 @@
   <ul class="outer-nav">
     <li class="is-active">Home</li>
     <li>Works</li>
-    <li>About</li>
+    <li>News</li>
     <li style="color: #b60109">LIVE</li>
     <li>Contact US</li>
   </ul>
